@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class CardTrick {
     // aditya dave
     // first commit
+	// second commit
     private static final String[] SUITS = {"Hearts", "Diamonds", "Clubs", "Spades"};
     public static void main(String[] args) {
         
