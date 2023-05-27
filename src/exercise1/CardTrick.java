@@ -11,6 +11,7 @@ package exercise1;
 import java.util.Random;
 import java.util.Scanner;
 
+
 public class CardTrick {
     // aditya dave
     // first commit
@@ -83,7 +84,7 @@ public class CardTrick {
      * @author Aditya dave may 26 2022
      */
     private static void printInfo() {
-    
+        // printinfo()
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
